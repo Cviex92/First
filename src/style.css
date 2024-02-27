@@ -2,12 +2,6 @@ body {
   background: #f9f7fe;
   font-family: "Roboto", sans-serif;
 }
-.weatherImg {
-  position: relative;
-  left: 60px;
-  top: 40px;
-  width: 200px;
-}
 
 a {
   color: #885df1;
