@@ -18,6 +18,8 @@ a {
         top: 400px;
         width: 200px;
         opacity: 0.5;
+        max-width: 100%;
+        height: auto;
 }
 .weather-app {
   background: white;
